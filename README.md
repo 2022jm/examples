@@ -1,7 +1,13 @@
 # Tests
 
-[![Tests](https://img.shields.io/github/workflow/status/artkonekt/menu/tests/master?style=flat-square)](https://github.com/artkonekt/menu/actions?query=workflow%3Atests)
-[![Stable packagist version](https://img.shields.io/packagist/v/konekt/menu.svg?style=flat-square)](https://packagist.org/packages/konekt/menu)
-[![Packagist downloads](https://img.shields.io/packagist/dt/konekt/menu.svg?style=flat-square)](https://packagist.org/packages/konekt/menu)
-[![StyleCI](https://styleci.io/repos/94574866/shield?branch=master)](https://styleci.io/repos/94574866)
-[![MIT Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
+## Laravel Compatibility
+
+| Laravel | Menu Module |
+|:--------|:------------|
+| 5.4     | 1.0 - 1.3   |
+| 5.5     | 1.0 - 1.7   |
+| 5.6     | 1.1 - 1.7   |
+| 5.7     | 1.2 - 1.7   |
+| 5.8     | 1.3 - 1.7   |
+| 6.x     | 1.4+        |
+| 7.x     | 1.5+        |
