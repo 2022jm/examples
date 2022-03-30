@@ -13,3 +13,9 @@
 
 
 | Header Column One | Header Column Two | Header Column Three | Header Column Four |
+
+| Header 1  | Header 2 |
+
+| --------  | -------- |
+
+| data      | Some long data that <br /> spans multiple lines |
