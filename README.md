@@ -1,10 +1,10 @@
 # Tests
 
-## Laravel Compatibility
+## Linux Types
 
 | Linux Type | Versions |
 |:-----------|:---------|
-| RHEL       |     8    |
+| RHEL       |<h1 align="center">8</h1>   |
 | RHEL       |     7    |
 | Rocky      |     8    |
 | CentOS     |     7    |
