@@ -2,12 +2,9 @@
 
 ## Linux Types
 
-| Linux Type | Versions |
-|:-----------|:---------|
-| RHEL       |<p align="center">8</p>|
-| RHEL       |     7    |
-| Rocky      |     8    |
-| CentOS     |     7    |
-| CentOS     |     7    |
-| SUSE       |    15    |
+| Linux Type |<p align="Versions">8</p>|
+|:-----------|:------------------------|
+| RHEL       | <p align="center">8</p> |
+| RHEL       | <p align="center">7</p> |
+
 
