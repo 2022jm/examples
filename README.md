@@ -2,9 +2,9 @@
 
 ## Linux Types
 
-| <p align="center">Linux Types</p> |<p align="center">versions</p>|
+| <th align="center">Linux Types</th> |<th align="center">versions</th>|
 |:----------------------------------|:-----------------------------|
-|  <p align="center">RHEL</p>       | <p align="center">8</p>      |
+|  <th align="center">RHEL</th>     | <th align="center">8</th>    |
 |  <p align="center">RHEL</p>       | <p align="center">7</p>      |
 |  <p align="center">CentOS</p>     | <p align="center">8</p>      |
 |  <p align="center">CentOS</p>     | <p align="center">7</p>      |
