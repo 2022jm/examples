@@ -11,13 +11,25 @@
 | Rocky      | 8       |
 | SUSE       | 15      |
 
-<details><summary>Running Playbook Result</summary>
+<details><summary>Running Playbook Result RHEL 8</summary>
 <p>
 
-#### Output
+#### RHEL 8
 
     ```This
-      is the result
+      is the result for RHEL 8
+    ```
+
+</p>
+</details>
+
+<details><summary>Running Playbook Result RHEL 7</summary>
+<p>
+
+#### RHEL 7
+
+    ```This
+      is the result for RHEL 7
     ```
 
 </p>
