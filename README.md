@@ -11,13 +11,13 @@
 | Rocky      | 8       |
 | SUSE       | 15      |
 
-<details><summary>CLICK ME</summary>
+<details><summary>Running Playbook Result</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Output
 
-    ```ruby
-      puts "Hello World"
+    ```This
+      is the result
     ```
 
 </p>
