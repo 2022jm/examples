@@ -95,6 +95,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </p>
 
 
+<h3>Monitoring</h3>
+<p>
+<img alt="Datadog" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+
+
 ## Operating System
 
 | Linux Types| Version |
