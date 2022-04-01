@@ -57,7 +57,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </p>
 
 
-<h3>Cloud Platforms</h3>
+<h3>CTesting</h3>
 <p>
 <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 <img alt="Jasmine" src="https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white" />
@@ -82,11 +82,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-<h3>Testing</h3>
+<h3>loud Platforms</h3>
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="VMware" src="https://a11ybadges.com/badge?logo=vmware" />
 </p>
 
 
