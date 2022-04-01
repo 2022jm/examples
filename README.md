@@ -46,11 +46,10 @@ graph TD;
     C-->D;
 ```
 
-Flowchart:
-```
+Flowchart
+
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-```
