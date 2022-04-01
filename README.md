@@ -2,6 +2,8 @@
 
 <i class="fa-solid fa-computer"></i>
 
+Click on the @icn-camera icon to take a screen shot.
+
 ## Operating System
 
 | Linux Types| Version |
