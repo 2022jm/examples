@@ -1,6 +1,6 @@
 # Tests
 
-> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> #### <i class="fa-solid fa-computer"></i> Configuration
 > Configuration can be launched from the **Tools -> Settings** menu option.
 
 
