@@ -1,7 +1,6 @@
 # Tests
 
-> ####  @icon-info-circle Notice
-> blah blah blah
+<i class="fa-solid fa-computer"></i>
 
 ## Operating System
 
