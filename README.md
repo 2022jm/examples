@@ -1,6 +1,6 @@
 # Tests
 
-> ####  @ icon-info-circle Notice
+> ####  @icon-info-circle Notice
 > blah blah blah
 
 ## Operating System
