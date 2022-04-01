@@ -47,8 +47,6 @@ graph TD;
 ```
 
 ```mermaid
-Sequence diagram
-
 sequenceDiagram
     participant Alice
     participant Bob
