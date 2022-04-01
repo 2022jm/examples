@@ -36,7 +36,7 @@
 </details>
 
 
-Here is a simple flow chart:
+DevOps Cycle:
 
 ```mermaid
 graph TD;
