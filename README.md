@@ -41,7 +41,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Hello all! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>Welcome to my page! </br> I'm Jimmy Ulloa Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/330529.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Jimmy Ulloa Fullstack developer from <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/cr.png" width="13"/> <b>San José, Costa Rica</b> </p>
 
 ## Operating System
 
