@@ -2,7 +2,7 @@
 
 <i class="fa-solid fa-computer"></i>
 
-Click on the @icn-camera icon to take a screen shot.
+Click on the @fa-solid fa-computer icon to take a screen shot.
 
 ## Operating System
 
