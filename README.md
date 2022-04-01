@@ -1,8 +1,9 @@
 # Tests
 
-<i class="fa-solid fa-computer"></i>
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> Configuration can be launched from the **Tools -> Settings** menu option.
 
-Click on the @fa-solid fa-computer icon to take a screen shot.
+
 
 ## Operating System
 
