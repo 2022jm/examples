@@ -105,13 +105,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
 <img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+<img alt="IBM" src="https://img.shields.io/static/v1?style=for-the-badge&message=IBM&color=052FAD&logo=IBM&logoColor=FFFFFF&label=" />
+<img alt="IBM Cloud" src="https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Cloud&color=1261FE&logo=IBM+Cloud&logoColor=FFFFFF&label=" />
 </p>
 
 
 
-https://a11ybadges.com/badge?logo=ibm  
-
-https://a11ybadges.com/badge?logo=hp
 
 
 
