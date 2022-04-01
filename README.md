@@ -11,12 +11,14 @@
 | Rocky      | 8       |
 | SUSE       | 15      |
 
-## Documentation
+<details><summary>CLICK ME</summary>
+<p>
 
-* [Installation](#installation)
-* [Getting Started](#getting-started)
-* [Sub-items](#sub-items)
-* [Referring to Items](#referring-to-items)
-	- [Get All Items](#get-all-items)
-	- [Get Sub-items of the Item](#get-sub-items-of-the-item)
-	- [Magic Where Methods](#magic-where-methods)
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
