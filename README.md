@@ -87,7 +87,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img alt="VMware" src="https://a11ybadges.com/badge?logo=vmware" />
+<img alt="VMware" src="https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=" />
 </p>
 
 
@@ -106,6 +106,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
 <img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </p>
+
+
+
+https://a11ybadges.com/badge?logo=ibm  
+
+https://a11ybadges.com/badge?logo=hp
+
+
 
 
 
