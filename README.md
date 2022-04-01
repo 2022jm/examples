@@ -11,6 +11,23 @@
 | Rocky      | 8       |
 | SUSE       | 15      |
 
+
+## Operating System
+
+| Linux Types| Version |
+|:-----------|:--------|
+| RedHat     | 8       |
+| RedHat     | 7       |
+
+
+## Operating System
+
+| Linux Types| Version |
+|-----------:|--------:|
+| RedHat     | 8       |
+| RedHat     | 7       |
+
+
 <details><summary>Running Playbook Result RHEL 8</summary>
 <p>
 
